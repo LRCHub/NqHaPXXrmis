@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "リボルバー",
+  "base_artist": "yonige",
+  "createdAt": "2025-12-07T03:59:38.316401Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "リボルバー",
+      "artist": "yonige",
+      "has_synced": false,
+      "path": "select/01_リボルバー_yonige.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "リボルバー・ジャンキーズ",
+      "artist": "Thee Michelle Gun Elephant",
+      "has_synced": true,
+      "path": "select/02_リボルバー・ジャンキーズ_Thee_Michelle_Gun_Elephant.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "リボルバー (ベスト オブ くるり Remastered)",
+      "artist": "くるり",
+      "has_synced": false,
+      "path": "select/03_リボルバー_(ベスト_オブ_くるり_Remastered)_くるり.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "リボルバー",
+      "artist": "yonige",
+      "has_synced": false,
+      "path": "select/pl_01_リボルバー_yonige.txt"
+    }
+  ]
+}
